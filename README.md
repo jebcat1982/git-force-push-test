@@ -1,3 +1,3 @@
-# git push --force?
+# git push `--force`?
 
 Hi
