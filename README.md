@@ -1,3 +1,3 @@
 # git push
 
-Hi, `--force-with-leath`!
+Hi, `--force-with-lease`!
